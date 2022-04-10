@@ -2,7 +2,7 @@
 I'm Achille, a belgian 22 years old passionate Java junior developer.
 
 ### Actually:
-- 🔭 I’m currently searching for a first job as java/spring developer
+- 🔭 I’m currently ... 
 
 
 ### Connect with me:
